@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chai": "^4.3.8",
+    "cucumber": "^6.0.7"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.5.1"
+  }
+}
