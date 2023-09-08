@@ -2,6 +2,5 @@ puppeteer.js
 node_modules/
 package-lock.json
 jest.setup.js
-puppeteer-2/features/step_definitions/code_for_steps.js
 util.js
 search.feature
